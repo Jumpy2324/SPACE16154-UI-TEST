@@ -16,9 +16,10 @@ Aggiornamenti:
 - Informazioni partita: stadio, meteo, arbitro, ultimo incontro.
 - Model Performance e Model Confidence dentro Altro.
 - Backend demo coerente:
-  dati simulati -> normalizzazione 0-100 -> macroaree -> pesi -> score -> probabilità -> Confidence/Value/Forma -> segnali.
+  dati simulati -> normalizzazione 0-100 -> macroaree -> pesi -> score ->
+  probabilità -> Confidence/Value/Forma -> segnali.
 - Nessun segnale viene creato se le soglie non vengono superate.
 - Pesi congelati fino a 4–7 giornate reali.
-
 Pesi iniziali:
 Threat 22% · Defense 20% · Forma 20% · Opponent Strength 18% · Pressing 14% · Availability 6%.
+
