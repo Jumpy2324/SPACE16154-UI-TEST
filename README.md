@@ -23,3 +23,4 @@ Aggiornamenti:
 Pesi iniziali:
 Threat 22% · Defense 20% · Forma 20% · Opponent Strength 18% · Pressing 14% · Availability 6%.
 
+
